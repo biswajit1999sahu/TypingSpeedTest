@@ -2,6 +2,7 @@
 
 Project Title: Typing Speed Test                                                                                                           
 Description: A place where one can enhance and calculate his/her typing speed.
+
 Using HTML, CSS, JavaScript
 
 ![image](https://user-images.githubusercontent.com/79848578/120029291-85678e00-c013-11eb-9b33-29d97a69d83b.png)
